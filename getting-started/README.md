@@ -1,8 +1,8 @@
 # Getting Started
-
-NOTE:This documentation is a work-in-progress and may contain inaccurate or incomplete information. If you are familiar with GitHub, the latest official documentation can be found on Github at https://github.com/PrintM3D/Quad-Fusion-Docs, but be aware that various 3rd-party user forks (modified versions) of this documentation may be more complete/up-to-date than the official version.
-
 Follow the guides in this Getting Started chapter of the QuadFusion 3D Print Head Docs to properly configure your printer and start printing!
+
+## Incomplete Documentation Warning
+This documentation is a work-in-progress and may contain inaccurate, incomplete, and contradictory information. This message will be removed as the documentation matures. Work-in-progress status last evaluated: 2019-05-29
 
 ## Table of Contents
 
